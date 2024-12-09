@@ -1,6 +1,2 @@
 Add a few line of istructions to the server
 File was created just to provide example for the course
-
-
-Installation on IIS 
-Instructions added in the local branch
